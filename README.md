@@ -20,12 +20,15 @@ This project demonstrates a complete ML lifecycle from raw data to deployed mode
 🧠 Key Features
 
 ✅ Data Cleaning & Feature Engineering
+
 ✅ Exploratory Data Analysis (Visualization + Insights)
+
 ✅ Model Training & Serialization (model.pkl)
 ✅ REST-based Prediction System
 ✅ Production Deployment using Gunicorn
 ✅ Cloud Hosting (Render Ready)
 ✅ Docker Support
+
 
 🛠️ Tech Stack
 Category	Technologies
